@@ -1,0 +1,27 @@
+_repo: On-a-Donkey-s-Hurricane-Deck2-Hours_42214
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42214-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Woodward, R. Pitcher (Robert Pitcher)
+    alias: Woodward, Robert Pitcher
+    gutenberg_agent_id: '41576'
+    url: http://www.gutenberg.org/2009/agents/41576
+description: ''
+gutenberg_issued: '2013-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42214'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'Overland journeys to the Pacific'
+title: "On a Donkey's Hurricane Deck\r\nA Tempestous Voyage of Four Thousand and Ninety-Six\
+  \ Miles Across the American Continent on a Burro, in 340 Days and 2 Hours, Starting\
+  \ Without a Dollar and Earning My Way"
+url: http://www.gutenberg.org/ebooks/42214
