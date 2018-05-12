@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41576'
     url: http://www.gutenberg.org/2009/agents/41576
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42214#On-a-Donkey-s-Hurricane-Deck2-Hours
 gutenberg_issued: '2013-02-26'
 gutenberg_type: Text
 identifiers:
